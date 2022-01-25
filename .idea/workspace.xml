@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f80f0759-4751-477b-9c87-97a42c68b4a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/TwitterSentimentAnalysis-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwitterSentiment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwitterSentimentAnalysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NLP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NLP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextProcessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/git" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
